@@ -20,7 +20,7 @@ Libraries and Data Preparation: We import necessary libraries and define sample 
 CPU-side Parsing: We use lxml to parse the XML and extract elements with their IDs. The element_chunks list splits the elements into smaller chunks for efficient GPU processing.
 CUDA Kernel: The validate_elements kernel runs on the GPU, taking a chunk of element data and more.
 
-Note: This is strictly a brute force approach to leverage pre-existing poewrful NVidia hardware if your datacenter has the capability juxtapose against the need for processing of massive legacy XML structures. 
+Note: This is strictly a brute force approach to leverage pre-existing powerful NVidia hardware if your datacenter has the capability juxtapose against the need for processing of massive legacy XML structures. 
 
 Alternatives to Consider:
 Optimized XML libraries: Depending on the specific processing needs, utilizing optimized libraries like Xerces (C++), libxml2 (C), or BeautifulSoup (Python) can offer significant performance improvements for XML processing on CPUs.
