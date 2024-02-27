@@ -29,8 +29,7 @@ Granted many companies are locked into platform architecture in which case a lar
 
 Example of Legacy XML Laden Commercial Platforms: 
 
-Architeturally Valid DuckCreek Policy Adminustration System Bypass
-
+DuckCreek Policy Administration System Bypass for Large XML Processing
 Duck Creek PAS Anywhere API provides functionalities to streamline policy processing and data manipulation, potentially achieving similar outcomes as the hypothetical scenario without requiring direct code modifications or external libraries like CUDA. 
 
 1. Leverage Duck Creek Anywhere Policy Services:
