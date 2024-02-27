@@ -59,7 +59,7 @@ Benefits:
 Leverages official APIs: This approach utilizes Duck Creek's supported APIs, ensuring compatibility and avoiding potential security risks associated with modifying core functionalities.
 Flexibility: You can choose your preferred programming language and implement parallel processing using familiar libraries.
 Scalability: The approach can be scaled to handle increasing volumes of policy data by adjusting the level of parallelism within your integration.
-Remember:
 
+Remember:
 Carefully review and adhere to Duck Creek's API documentation and best practices when developing integrations with the Anywhere API.
 This is a general recommendation, and the specific implementation details will depend on your specific requirements and system architecture.
