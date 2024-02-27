@@ -10,3 +10,4 @@ xml_data = """
   <element id="3">Valid data with number (123)</element>
   <element id="4">Missing attribute</element>
 </data>
+
