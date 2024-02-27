@@ -1,5 +1,5 @@
 # CUDA
-The intent here is to unlock the power of parallel processing and accelerating computing in Nividia CPU's leveraging CUDA API for enterprises that are drowning in massive XML centric related processing and validation. 
+The intent here is to unlock the power of parallel processing and accelerating computing in Nividia GPU's leveraging CUDA API for enterprises that are drowning in massive XML centric related processing and validation. 
 This code defines a simple kernel function process_xml_element that would be executed on the GPU. 
 However, the actual implementation of this function would involve replacing the placeholder comment with your specific logic for processing and validating an XML element.
 The XML data and element information are loaded and parsed on the CPU using an external library (not shown here).
